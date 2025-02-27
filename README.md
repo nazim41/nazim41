@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Nazim Chowdhury.
 #### I am a software daveloper. 
-![I am a software daveloper. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a software daveloper. ](https://github.com/nazim41/nazim41/blob/main/Dark%20Neon%20Minimalist%20Motivational%20Quote%20Facebook%20Cover.jpg)
 
 💻 Passionate software developer with expertise in crafting elegant code solutions and innovative applications. 🌟 Committed to continuous learning and contributing to open-source projects.
 
