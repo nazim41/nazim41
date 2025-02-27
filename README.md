@@ -25,8 +25,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS/C/C++/ JAVA
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nazim41/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/nazim41)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nazim41)  
-
-
